@@ -1,0 +1,34 @@
+title: FlameIT - Immersion Cooling - Pitch Deck
+# author:
+#   name: Paweł 'felixd' Wojciechowski
+#   email: 
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  FlameIT - Immersion Cooling Pitch Deck
+
+google_analytics: G-BRTHV5SMK6
+
+url: "https://pd.flameit.io"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+theme: minima
+minima:
+  skin: light
+  social_links:
+    - { platform: facebook,       user_url: "https://www.facebook.com/flameit.io" }
+    - { platform: github,         user_url: "https://github.com/flameit-os" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/company/flameit/" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@flameit" }
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
