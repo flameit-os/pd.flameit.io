@@ -2,7 +2,7 @@
 layout: default
 title: Pitch Deck
 ---
-[![FlameIT - Immersion Cooling](https://statics.flameit.io/img/flameit-www-banner-960x200.png "FlameIT - Immersion Cooling")](https://flameit.io)
+[![FlameIT - Immersion Cooling](https://statics.flameit.io/img/flameit-www-banner-960x400.png "FlameIT - Immersion Cooling")](https://flameit.io)
 
 # Pitch Deck
 
